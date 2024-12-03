@@ -1,0 +1,28 @@
+body{
+	background-image:url(https://img.freepik.com/free-vector/background-realistic-abstract-technology-particle_23-2148431735.jpg?t=st=1733152048~exp=1733155648~hmac=05412a4fba27b6e54cb9d96c479073167d819197278cbea4d72bb2fc919e28a6&w=1800);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.container{
+	background-color:rgba(0, 0, 0, .6)
+;
+	padding:15px;
+	margin-top:200px;
+}
+	
+h2{
+	font-family:impact;
+	color:white;
+	text-align:center;
+}
+
+h4{
+	font-family:heiti sc;
+	color:white;
+}
+
+label{
+	font-family:heiti sc;
+	color: white;
+}
